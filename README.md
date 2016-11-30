@@ -1,4 +1,4 @@
 # Crypto-Detect
 A crypto-detect tool.
 
-hat tip to /u/Mskews - https://www.reddit.com/user/Mskews
+Original Author: /u/Mskews - https://www.reddit.com/user/Mskews
